@@ -1,0 +1,31 @@
+{
+  "name"            : "Shokupan Extension",
+  "version"         : "0.0.1",
+  "manifest_version": 2,
+  "description"     : "コードネーム食パンのエクステンション",
+  "options_page"    : "setting.html",
+  "key"             : "D2T1lhATxldv8q6BwteHr2eEwjk474iJjt2cckzo9f6u1dc7K0e9qAlohZkGtVNg",
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "permissions": [
+    "tabs",
+    "http://157.7.128.124/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*/*",
+        "http://*/*"
+      ],
+      "js": [
+        "jquery.min.js",
+        "md5.js",
+        "script.js"
+      ],
+      "run_at": "document_end"
+    }
+  ]
+}
