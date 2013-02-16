@@ -14,6 +14,10 @@
     "tabs",
     "http://157.7.128.124/*"
   ],
+  "web_accessible_resources": [
+    "open.gif",
+    "close.gif"
+  ],
   "content_scripts": [
     {
       "matches": [
