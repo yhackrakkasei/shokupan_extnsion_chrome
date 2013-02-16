@@ -7,7 +7,7 @@
   "key"             : "D2T1lhATxldv8q6BwteHr2eEwjk474iJjt2cckzo9f6u1dc7K0e9qAlohZkGtVNg",
   "background": {
     "scripts": [
-      "background.js"
+      "lib/background.js"
     ]
   },
   "permissions": [
@@ -15,8 +15,8 @@
     "http://157.7.128.124/*"
   ],
   "web_accessible_resources": [
-    "open.gif",
-    "close.gif"
+    "img/open.gif",
+    "img/close.gif"
   ],
   "content_scripts": [
     {
@@ -25,9 +25,9 @@
         "http://*/*"
       ],
       "js": [
-        "jquery.min.js",
-        "md5.js",
-        "script.js"
+        "lib/jquery.min.js",
+        "lib/md5.js",
+        "lib/script.js"
       ],
       "run_at": "document_end"
     }
