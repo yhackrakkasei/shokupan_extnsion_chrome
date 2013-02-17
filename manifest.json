@@ -17,7 +17,9 @@
   ],
   "web_accessible_resources": [
     "img/open.gif",
-    "img/close.gif"
+    "img/close.gif",
+    "movie/open.mp3",
+    "movie/hit.webm"
   ],
   "content_scripts": [
     {
