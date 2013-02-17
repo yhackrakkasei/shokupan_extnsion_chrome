@@ -20,6 +20,8 @@
     "img/close.gif",
     "img/pan.png",
     "movie/open.mp3",
+    "movie/reunion_f.webm",
+    "movie/reunion_m.webm",
     "movie/hit.webm"
   ],
   "content_scripts": [
