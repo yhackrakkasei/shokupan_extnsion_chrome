@@ -33,5 +33,10 @@
       ],
       "run_at": "document_end"
     }
-  ]
+  ],
+  "icons": {
+    "16" : "img/favicon.gif",
+    "48" : "img/favicon.gif",
+    "128": "img/favicon.gif"
+  }
 }
