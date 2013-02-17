@@ -15,3 +15,11 @@
 #shokupan_q_select input:checked+label {
   background-color: #f3dfc5;
 }
+
+#reunion_submit {
+  width: 238px;
+  height: 51px;
+  color: white;
+  background-image: url('chrome-extension://gjncemgkdjhpofeiaclefaegbpkefimk/img/btn.png');
+  border: none;
+}
