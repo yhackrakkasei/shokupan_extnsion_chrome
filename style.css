@@ -1,0 +1,17 @@
+#shokupan_q_select input {
+  display: none;
+}
+#shokupan_q_select img {
+  float: left;
+}
+#shokupan_q_select label {
+  height: 33px;
+  display: inline-block;
+  font-size: 26px;
+  width: 352px;
+  margin-bottom: 8px;
+  padding-left: 5px;
+}
+#shokupan_q_select input:checked+label {
+  background-color: #f3dfc5;
+}

@@ -15,6 +15,7 @@
     "http://210.129.193.23/*"
   ],
   "web_accessible_resources": [
+    "style.css",
     "img/open.gif",
     "img/close.gif",
     "img/pan.png",
