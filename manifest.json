@@ -18,6 +18,7 @@
   "web_accessible_resources": [
     "img/open.gif",
     "img/close.gif",
+    "img/pan.png",
     "movie/open.mp3",
     "movie/hit.webm"
   ],
@@ -38,7 +39,7 @@
   ],
   "icons": {
     "16" : "img/favicon.gif",
-    "48" : "img/favicon.gif",
-    "128": "img/favicon.gif"
+    "48" : "img/48x48.png",
+    "128": "img/48x48.png"
   }
 }
