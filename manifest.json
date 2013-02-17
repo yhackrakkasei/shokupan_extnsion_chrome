@@ -39,7 +39,7 @@
   ],
   "icons": {
     "16" : "img/favicon.gif",
-    "48" : "img/favicon.gif",
-    "128": "img/favicon.gif"
+    "48" : "img/48x48.png",
+    "128": "img/48x48.png"
   }
 }
