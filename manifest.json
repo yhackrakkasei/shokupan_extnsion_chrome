@@ -18,6 +18,7 @@
   "web_accessible_resources": [
     "img/open.gif",
     "img/close.gif",
+    "img/pan.png",
     "movie/open.mp3",
     "movie/hit.webm"
   ],
