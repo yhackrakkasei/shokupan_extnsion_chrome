@@ -12,7 +12,8 @@
   },
   "permissions": [
     "tabs",
-    "http://157.7.128.124/*"
+    "http://157.7.128.124/*",
+    "http://210.129.193.23/*"
   ],
   "web_accessible_resources": [
     "img/open.gif",
@@ -27,6 +28,7 @@
       "js": [
         "lib/jquery.min.js",
         "lib/md5.js",
+        "lib/socket.io.js",
         "lib/script.js"
       ],
       "run_at": "document_end"
