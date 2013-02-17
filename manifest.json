@@ -1,8 +1,8 @@
 {
-  "name"            : "Shokupan Extension",
+  "name"            : "Fortune flour Extension",
   "version"         : "0.0.1",
   "manifest_version": 2,
-  "description"     : "コードネーム食パンのエクステンション",
+  "description"     : "Fortune flour Extension",
   "options_page"    : "setting.html",
   "key"             : "D2T1lhATxldv8q6BwteHr2eEwjk474iJjt2cckzo9f6u1dc7K0e9qAlohZkGtVNg",
   "background": {
