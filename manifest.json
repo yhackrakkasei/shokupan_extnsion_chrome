@@ -12,13 +12,15 @@
   },
   "permissions": [
     "tabs",
-    "http://157.7.128.124/*",
     "http://210.129.193.23/*"
   ],
   "web_accessible_resources": [
     "img/open.gif",
     "img/close.gif",
     "img/pan.png",
+    "img/arrow_off.png",
+    "img/arrow_on.png",
+    "img/btn.png",
     "movie/open.mp3",
     "movie/reunion_f.webm",
     "movie/reunion_m.webm",
